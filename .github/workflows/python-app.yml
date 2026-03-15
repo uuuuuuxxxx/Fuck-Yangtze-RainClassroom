@@ -1,4 +1,4 @@
-name: Run start.py every 5 minutes on weekdays
+name: 按个人课表运行 start.py
 
 on:
   schedule:
